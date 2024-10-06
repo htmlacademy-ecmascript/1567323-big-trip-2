@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Сергей Проскуряков](https://up.htmlacademy.ru/ecmascript-individual/2/user/1567323).
-* Наставник: `Неизвестно`.
+* Наставник: [Олег Глущенко](https://htmlacademy.ru/profile/id305355).
 
 ---
 
